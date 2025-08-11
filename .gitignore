@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+*.egg-info/
+*.log
+
+# Alembic cache
+alembic/__pycache__/
+alembic/versions/__pycache__/
