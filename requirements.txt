@@ -6,6 +6,9 @@ alembic==1.13.1
 pydantic==2.7.1
 python-jose==3.3.0
 passlib[bcrypt]==1.7.4
-redis==5.0.4
+redis==5.0.7
 celery==5.4.0
 psycopg2-binary==2.9.9
+yfinance==0.2.52
+pandas==2.2.2
+openpyxl==3.1.5
